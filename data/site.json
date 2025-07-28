@@ -1,0 +1,38 @@
+{
+  "basic": {
+    "title": "NavSphere Vue",
+    "titleEn": "NavSphere Vue",
+    "description": "现代化导航管理平台，基于 Vue 3 构建",
+    "descriptionEn": "Modern navigation management platform built with Vue 3",
+    "keywords": "导航,书签,管理,Vue,导航站点,网址收藏",
+    "keywordsEn": "navigation,bookmarks,management,Vue,navigation site,URL collection",
+    "author": "NavSphere Team",
+    "email": "contact@navsphere.com",
+    "url": "https://navsphere.example.com"
+  },
+  "appearance": {
+    "logo": "/favicon.ico",
+    "favicon": "/favicon.ico",
+    "theme": "system",
+    "primaryColor": "#3b82f6",
+    "accentColor": "#10b981",
+    "fontFamily": "Inter, system-ui, sans-serif",
+    "customCss": ""
+  },
+  "seo": {
+    "enableSeo": true,
+    "ogImage": "/og-image.png",
+    "twitterCard": "summary_large_image",
+    "googleAnalytics": "",
+    "baiduAnalytics": ""
+  },
+  "features": {
+    "enableSearch": true,
+    "enableThemeToggle": true,
+    "enableI18n": true,
+    "enablePwa": false,
+    "enableComments": false
+  },
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-01T00:00:00.000Z"
+}

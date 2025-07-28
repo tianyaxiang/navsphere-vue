@@ -1,0 +1,74 @@
+[
+  {
+    "id": "learning-resources",
+    "title": "学习资源",
+    "items": [
+      {
+        "title": "Vue.js 官方文档",
+        "description": "Vue.js 框架的官方文档和指南",
+        "icon": "https://vuejs.org/favicon.ico",
+        "url": "https://vuejs.org/guide/"
+      },
+      {
+        "title": "MDN Web Docs",
+        "description": "Web 开发技术文档",
+        "icon": "https://developer.mozilla.org/favicon.ico",
+        "url": "https://developer.mozilla.org"
+      },
+      {
+        "title": "TypeScript 手册",
+        "description": "TypeScript 官方文档",
+        "icon": "https://www.typescriptlang.org/favicon.ico",
+        "url": "https://www.typescriptlang.org/docs/"
+      }
+    ]
+  },
+  {
+    "id": "design-inspiration",
+    "title": "设计灵感",
+    "items": [
+      {
+        "title": "Dribbble",
+        "description": "设计师作品展示平台",
+        "icon": "https://dribbble.com/favicon.ico",
+        "url": "https://dribbble.com"
+      },
+      {
+        "title": "Behance",
+        "description": "Adobe 创意作品展示平台",
+        "icon": "https://www.behance.net/favicon.ico",
+        "url": "https://www.behance.net"
+      },
+      {
+        "title": "UI Movement",
+        "description": "UI 设计动画灵感",
+        "icon": "https://uimovement.com/favicon.ico",
+        "url": "https://uimovement.com"
+      }
+    ]
+  },
+  {
+    "id": "development-tools",
+    "title": "开发工具",
+    "items": [
+      {
+        "title": "Postman",
+        "description": "API 开发和测试工具",
+        "icon": "https://www.postman.com/favicon.ico",
+        "url": "https://www.postman.com"
+      },
+      {
+        "title": "Insomnia",
+        "description": "REST API 客户端",
+        "icon": "https://insomnia.rest/favicon.ico",
+        "url": "https://insomnia.rest"
+      },
+      {
+        "title": "DevTools",
+        "description": "浏览器开发者工具指南",
+        "icon": "https://developer.chrome.com/favicon.ico",
+        "url": "https://developer.chrome.com/docs/devtools/"
+      }
+    ]
+  }
+]
